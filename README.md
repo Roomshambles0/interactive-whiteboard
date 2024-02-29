@@ -1,4 +1,4 @@
-# Interactive-canvas (Next.js Drawing Application)
+# Interactive-Whiteboard (Next.js Drawing Application)
 
  
 This is a simple drawing application built with Next.js, leveraging the HTML canvas element for rendering, Rough.js for hand-drawn graphics, and Tailwind CSS for styling.
@@ -28,13 +28,13 @@ This is a simple drawing application built with Next.js, leveraging the HTML can
 1. **Clone the Repository:**
 
     ```bash
-    git clone https://github.com/Roomshambles0/interactive-canvas.git
+    git clone https://github.com/Roomshambles0/interactive-whiteboard.git
     ```
 
 2. **Navigate to the Project Directory:**
 
     ```bash
-    cd interactive-canvas
+    cd interactive-whiteboard
     ```
 
 3. **Install Dependencies:**
