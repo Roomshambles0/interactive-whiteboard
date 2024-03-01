@@ -3,7 +3,7 @@
  
 This is a simple drawing application built with Next.js, leveraging the HTML canvas element for rendering, Rough.js for hand-drawn graphics, and Tailwind CSS for styling.
 
-## [Demo](https://x.com/piyush42k/status/1763530954201583769?s=20)
+
 
 ## Features
 
