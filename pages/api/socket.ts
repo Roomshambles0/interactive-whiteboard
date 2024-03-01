@@ -1,8 +1,8 @@
-import { Server } from 'Socket.IO'
+import { Server } from 'socket.io'
 import type { Server as HTTPServer } from "http"
 import type { Socket as NetSocket } from "net"
 import type { NextApiRequest, NextApiResponse } from "next"
-import type { Server as IOServer } from "Socket.IO"
+import type { Server as IOServer } from "socket.io"
 import { getproperties, undoredo, updatecanvas } from '../../utils/db/helperfunctions'
 
 

@@ -1,5 +1,5 @@
 
-import { io as ClientIO } from  'Socket.IO-client'
+import { io as ClientIO } from  'socket.io-client'
 
 export default function socketClient() {
   const socket = new (ClientIO as any)(process.env.NEXT_PUBLIC_SITE_URL!, {
