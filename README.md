@@ -62,9 +62,6 @@ This is a simple drawing application built with Next.js, leveraging the HTML can
 
 Feel free to contribute to the project. Whether you find a bug, have a feature request, or want to improve the documentation, your contributions are welcome.
 
-## License
 
-This project is licensed under the MIT License.
----
 
 Happy Drawing! 🎨
