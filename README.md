@@ -12,7 +12,7 @@ This is a simple drawing application built with Next.js, leveraging the HTML can
 - **Hand-Drawn Graphics**: The application utilizes Rough.js to create a hand-drawn effect on graphics.
 - **Responsive Design**: Tailwind CSS is employed for creating a responsive and visually appealing user interface.
 - **Authentication**: Implemented User authentication where each user can create account and his drawing files.
--**Realtime Application**: This is realtime application where data saved to the backend using socket.io libraty.
+- **Realtime Application**: This is realtime application where data saved to the backend using socket.io libraty.
 
 ## Technologies Used
 
@@ -22,6 +22,7 @@ This is a simple drawing application built with Next.js, leveraging the HTML can
 - [Tailwind CSS](https://tailwindcss.com/): A utility-first CSS framework for building modern web designs.
 - [NextAuth](https://next-auth.js.org/): Authentication
 - [MongoDB](https://www.mongodb.com/atlas/database):MongoDB database integration using MongoDB Atlas.
+- [socket.io](https://socket.io):socket.io library to implement socket connection between server and client.
 
 ## Getting Started
 
